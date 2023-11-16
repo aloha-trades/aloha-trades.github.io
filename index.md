@@ -8,7 +8,10 @@
 
 ## User Guide
 ### Application functionality
-In this section we will go over how to use our application.
+In the following section, we will go over functionalities of our page.  In order to help visualize this, the diagram shown below was created:
+
+![Flowpath Diagram](imgs/flowpath.png)
+
 
 ### Landing page
 When you retrieve the app at http://146.190.156.137, this is what should be displayed:
