@@ -1,6 +1,6 @@
 ![Screenshot of Logo](imgs/atradelogo.png)
-# Aloha Trades
 
+# Aloha Trades
 ## Overview
 **The problem:** UHM students have a “rapid” churn rate in goods and services. Students leave the dorm for an on-campus apartment and need to get rid of dorm-specific stuff and acquire apartment-specific stuff. Students graduate and need to get rid of stuff because they’re moving off-island. There are therefore a tremendous amount of “campus-specific” goods and services that could be more effectively recycled and reused if there was an effective marketplace for these specific kinds of items.
 
@@ -88,11 +88,11 @@ Admin users can approve or deny a post from being listed on the listings page.
 
 ## PROJECT LINKS
 
+### [Aloha Trades Website](http://146.190.156.137)
+
 ### [Aloha Trades Organization Page (GitHub)](https://github.com/aloha-trades)
 
 ### [Team Contract Page](https://docs.google.com/document/d/1hsWmRihtEYO2heNBocMD6gEJtzXGbuNTDhtQp3nhHCM/edit)
-
-### [Aloha Trades Website](http://146.190.156.137)
 
 ### [M1 - Project Page](https://github.com/orgs/aloha-trades/projects/1)
 
