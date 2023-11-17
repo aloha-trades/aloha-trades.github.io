@@ -12,7 +12,6 @@ In the following section, we will go over functionalities of our page.  In order
 
 ![Flowpath Diagram](imgs/flowpath.png)
 
-
 ### Landing page
 When you retrieve the app at http://146.190.156.137, this is what should be displayed:
 
@@ -23,7 +22,7 @@ The next step is to use the Login menu to either Login to an existing account or
 ### Login page
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-![Screenshot of Login Page](imgs/signinpage.png)
+![Screenshot of Login Page](imgs/SignInPage.png)
 
 ### Signup page
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
@@ -33,19 +32,17 @@ Alternatively, clicking on the Login link, then on the Sign Up menu item display
   * Sign up limited to @hawaii.edu email addresses.
   * Name, Age, Profile Pic, etc.
 
-![Screenshot of Sign-up Page](imgs/signuppage.png)
+![Screenshot of Sign-up Page](imgs/SignUpPage.png)
 
 ### Landing (after Login) page, non-Admin user
-Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
+Once you log in (either to an existing account or by creating a new one), the navbar and page changes as follows:
 
-![Screenshot of Signe-in User's Navbar](imgs/user-navbar.png)
-
-You can now add new Stuff documents, and list the Stuff you have created. Note you cannot see any Stuff created by other users.
+![Screenshot of Signe-in User's Navbar](imgs/LandingPage.png)
 
 ### Listing page  (Under Construction//M2)
 After logging in, here is the page that allows you to see all available item listings:
 
-
+![Screenshot of Listing Page](imgs/ListingsPage.png)
 
 ### Item Detail Page (Under Construction//M2)
 After clicking on an item, this page will show more information about the item and seller.
@@ -56,7 +53,6 @@ After clicking on an item, this page will show more information about the item a
 After logging in, a user can post a listing.  Fields required include: name, description, price, condition, category, and the optional image upload.  Here is the page that allows you to create a item listing:
 
 ![Screenshot of Listing Post Page](imgs/PostListing.png)
-
 
 * M1-M2 goal:
 
@@ -73,11 +69,11 @@ After clicking on the "Edit" link associated with an item, this page displays th
 ### Landing (after Login), Admin user
 You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
 
-![Screenshot of Signe-in User's Navbar](imgs/admin-navbar.png)
-
+![Screenshot of Signe-in User's Navbar](imgs/AdminNavBar.png)
 
 ### Admin Reports Page (Under Construction //M2)
 Admins can see all the reports made by users on other users who act suspiciously or are not from the university.
+
 
 
 ### Admin - Approving Posts
@@ -92,13 +88,13 @@ Admin users can approve or deny a post from being listed on the listings page.
 
 ## PROJECT LINKS
 
-### [GitHub Organization Page](https://github.com/aloha-trades).
+### [Aloha Trades Organization Page (GitHub)](https://github.com/aloha-trades)
 
-### [Team Contract Page](https://docs.google.com/document/d/1hsWmRihtEYO2heNBocMD6gEJtzXGbuNTDhtQp3nhHCM/edit).
+### [Team Contract Page](https://docs.google.com/document/d/1hsWmRihtEYO2heNBocMD6gEJtzXGbuNTDhtQp3nhHCM/edit)
 
-### [Digital Oceans Page](http://146.190.156.137).
+### [Aloha Trades Website](http://146.190.156.137)
 
-### [M1 - Project Page](https://github.com/orgs/aloha-trades/projects/1).
+### [M1 - Project Page](https://github.com/orgs/aloha-trades/projects/1)
 
 ### [M2 - Project Page](https://github.com/orgs/aloha-trades/projects/3)
 
