@@ -88,7 +88,7 @@ Admin users can approve or deny a post from being listed on the listings page.
 
 ## PROJECT LINKS
 
-### [Aloha Trades Website](http://146.190.156.137)
+### [Aloha Trades Website](https://aloha-trades.com)
 
 ### [Aloha Trades Organization Page (GitHub)](https://github.com/aloha-trades)
 
