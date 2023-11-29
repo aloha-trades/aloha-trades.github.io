@@ -84,7 +84,7 @@ Admin users can approve or deny a post from being listed on the listings page.
 
 ### [M2 - Project Page](https://github.com/orgs/aloha-trades/projects/3)
 
-### [M# - Project Page]()
+### [M3 - Project Page](https://discord.com/channels/1169862846939676712/1169862848910987288/1179285541892661340)
 
 ## Developer Guide
 ### Installation
