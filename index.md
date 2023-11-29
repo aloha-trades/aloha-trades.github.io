@@ -13,24 +13,14 @@ In the following section, we will go over functionalities of our page.  In order
 ![Flowpath Diagram](imgs/flowpath.png)
 
 ### Landing page
-When you retrieve the app at http://146.190.156.137, this is what should be displayed:
+When you enter our sites url, https://aloha-trades.com, this is what should be displayed. You will have to have a UH account in order to use this website:
 
-
+![Screenshot of Ladning Page](imgs/SignInPage.png)
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
-### Login page
-Clicking on the Login link, then on the Sign In menu item displays this page:
-
-![Screenshot of Login Page](imgs/SignInPage.png)
-
-### Signup page
+### Sign-up/Sign-in page
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
-
-* M1-M2 goal:
-
-  * Sign up limited to @hawaii.edu email addresses.
-  * Name, Age, Profile Pic, etc.
 
 ![Screenshot of Sign-up Page](imgs/SignUpPage.png)
 
@@ -39,50 +29,46 @@ Once you log in (either to an existing account or by creating a new one), the na
 
 ![Screenshot of Signe-in User's Navbar](imgs/LandingPage.png)
 
-### Listing page  (Under Construction//M2)
-After logging in, here is the page that allows you to see all available item listings:
+### View Listings Page
+After logging in, here is the page that allows you to see the listings you post:
 
-![Screenshot of Listing Page](imgs/ListingsPage.png)
+![Screenshot of View Listing Page](imgs/ViewListingPage.png)
 
-### Item Detail Page (Under Construction//M2)
+### Post a Listing
+After logging in, a user can post a listing. Fields required include: name, description, price, condition, category, and an image upload.  Here is the page that allows you to create a item listing:
+
+![Screenshot of Listing Post Page](imgs/PostListing.png)
+
+### Item Detail Page (Under Construction//M3)
 After clicking on an item, this page will show more information about the item and seller.
 
 
 
-### User - Post a Listing
-After logging in, a user can post a listing.  Fields required include: name, description, price, condition, category, and the optional image upload.  Here is the page that allows you to create a item listing:
+### View Marketplace
+After logging in, you can view listings on the market and profile information like name, contact, and profile image.
 
-![Screenshot of Listing Post Page](imgs/PostListing.png)
+![Screenshot of View Listing Page](imgs/ViewMarketplacePage.png)
 
-* M1-M2 goal:
+The marketplace will not show your listings. In the image the listing is owned by the admin.
 
-    * Add image upload functionality
-    * Format Listings as a Card, vice table.  
-  
-### User Profile Page (Under Construction//M2)
-After logging in, you can view your listings and profile information like name, contact, and profile image.
+Later if you want to edit your listings you can click the "Edit" link to go to the Edit Listing page, shown next.
 
-You click the "Edit" link to go to the Edit Listing page, shown next.
-### Edit Item page (Under Construction//M2)
+### Edit Item Page
 After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save it:
 
-### Landing (after Login), Admin user
+![Screenshot of Edit Listing Page](imgs/EditListingPage.png)
+
+### NavBar (after Login), Admin user
 You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
 
 ![Screenshot of Signe-in User's Navbar](imgs/AdminNavBar.png)
-
-### Admin Reports Page (Under Construction //M2)
-Admins can see all the reports made by users on other users who act suspiciously or are not from the university.
-
-
 
 ### Admin - Approving Posts
 Any listing posted must be approved by an admin.  While this may take time, it ensures quality of the postings on the page.  Also, it helps to keep malicious actors who may be using 'codewords' or suspicious activity down to a minimum (ideally zero).  
 
 Mockup Complete, but page is still a work in progress:
 
-![Screenshot of Admin approval Page](imgs/AdminApprovalPage2.png)
-
+![Screenshot of Admin approval Page](imgs/AdminApprovalPage.png)
 
 Admin users can approve or deny a post from being listed on the listings page.  
 
@@ -97,6 +83,8 @@ Admin users can approve or deny a post from being listed on the listings page.
 ### [M1 - Project Page](https://github.com/orgs/aloha-trades/projects/1)
 
 ### [M2 - Project Page](https://github.com/orgs/aloha-trades/projects/3)
+
+### [M# - Project Page]()
 
 ## Developer Guide
 ### Installation
