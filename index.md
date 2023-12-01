@@ -39,10 +39,12 @@ After logging in, a user can post a listing. Fields required include: name, desc
 
 ![Screenshot of Listing Post Page](imgs/PostListing.png)
 
-### Item Detail Page (Under Construction//M3)
-After clicking on an item, this page will show more information about the item and seller.
+Later if you want to edit your listings you can click the "Edit" link to go to the Edit Listing page, shown next.
 
+### Edit Item Page
+After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save it:
 
+![Screenshot of Edit Listing Page](imgs/EditListingPage.png)
 
 ### View Marketplace
 After logging in, you can view listings on the market and profile information like name, contact, and profile image.
@@ -51,12 +53,15 @@ After logging in, you can view listings on the market and profile information li
 
 The marketplace will not show your listings. In the image the listing is owned by the admin.
 
-Later if you want to edit your listings you can click the "Edit" link to go to the Edit Listing page, shown next.
+### Item Detail Page (Under Construction//M3)
+After clicking on an item, this page will show more information about the item and seller.
 
-### Edit Item Page
-After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save it:
 
-![Screenshot of Edit Listing Page](imgs/EditListingPage.png)
+
+## Messaging Feature (Under Construction/M3)
+For the users we made it easy for buyers and sellers to communicate.
+
+
 
 ### NavBar (after Login), Admin user
 You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
@@ -85,6 +90,8 @@ Admin users can approve or deny a post from being listed on the listings page.
 ### [M2 - Project Page](https://github.com/orgs/aloha-trades/projects/3)
 
 ### [M3 - Project Page](https://github.com/orgs/aloha-trades/projects/4/views/1)
+
+![ci-badge](https://github.com/aloha-trades/aloha-trades/workflows/aloha-trades/badge.svg)
 
 ## Developer Guide
 ### Installation
