@@ -91,7 +91,7 @@ Admin users can approve or deny a post from being listed on the listings page.
 
 ### [M3 - Project Page](https://github.com/orgs/aloha-trades/projects/4/views/1)
 
-[![ci-meteor-application-template-react](https://github.com/aloha-trades/aloha-trades/workflows/aloha-trades/badge.svg)](https://github.com/aloha-trades/aloha-trades/workflows/ci.yml)
+### [![ci-meteor-application-template-react](https://github.com/aloha-trades/aloha-trades/workflows/aloha-trades/badge.svg)](https://github.com/aloha-trades/aloha-trades/workflows/ci.yml)
 
 ## Developer Guide
 ### Installation
