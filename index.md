@@ -81,6 +81,8 @@ Admin users can approve or deny a post from being listed on the listings page.
 
 ### [Aloha Trades Website](https://aloha-trades.com)
 
+[![ci-meteor-application-template-react](https://github.com/aloha-trades/aloha-trades/workflows/aloha-trades/badge.svg)](https://github.com/aloha-trades/aloha-trades/workflows/ci.yml)
+
 ### [Aloha Trades Organization Page (GitHub)](https://github.com/aloha-trades)
 
 ### [Team Contract Page](https://docs.google.com/document/d/1hsWmRihtEYO2heNBocMD6gEJtzXGbuNTDhtQp3nhHCM/edit)
@@ -90,8 +92,6 @@ Admin users can approve or deny a post from being listed on the listings page.
 ### [M2 - Project Page](https://github.com/orgs/aloha-trades/projects/3)
 
 ### [M3 - Project Page](https://github.com/orgs/aloha-trades/projects/4/views/1)
-
-### [![ci-meteor-application-template-react](https://github.com/aloha-trades/aloha-trades/workflows/aloha-trades/badge.svg)](https://github.com/aloha-trades/aloha-trades/workflows/ci.yml)
 
 ## Developer Guide
 ### Installation
