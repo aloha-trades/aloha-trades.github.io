@@ -63,7 +63,7 @@ The user will have options to 3 things, the marketplace, posting a listing, and 
 ![Screenshot of User's NavBar](imgs/User-NavBar.png)
 
 ### View Marketplace
-After logging in, you can view listings on the market and its respective sellers profile information like name, contact, and profile image. There is also a buy button that removes the listing off the marketplace and puts it into your shopping cart so that you can find it after and email the seller that you want to buy it.
+After logging in, you can view listings on the market and its respective sellers profile information like name, contact, and profile image. There is also a add to shopping cart button that puts it into your shopping cart so that you can find it after and email the seller that you want to buy it.
 
 ![Screenshot of View Marketplace Page](imgs/Marketplace-Page.png)
 
