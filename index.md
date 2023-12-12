@@ -119,6 +119,14 @@ Admin users can approve or deny a post from being listed on the listings page by
 ## Community Feedback
 Student A likes that our application adheres to UH students in giving them a place to sell their items that are meant for other college students. A couple of the things they said we could fix is the icons on the landing page should be white and the positions of where it says the item description and who the item is offered by should be switched.
 
+Student B said, "The interface is really simple and works just the way you would expect an online marketplace would be. I hope more of these online marketplace would be implemented here in Hawaii to promote ecommerce."
+
+Student C said, "The app is very easy to use and I like how straightforward it is. I just hope they optimized it for mobile devices as well."
+
+Student D said, "This website is incredibly user-friendly and straightforward. I appreciate how they've implemented restrictions, ensuring that only UH Manoa students can access it. This security measure ensures that transactions exclusively occur among students, maintaining a secure environment."
+
+Student E said, "The website is very easy to use and I like how easy this makes it to sell my unwanted items/school related material to other students"
+
 ## Developer Guide
 ### Installation
 First, [install Meteor](https://www.meteor.com/install).
