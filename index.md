@@ -19,6 +19,23 @@ When you enter our sites url, https://aloha-trades.com, this is what should be d
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
+There are several default accounts that you can use to test the site. 
+
+Login information below: **username - password**
+
+Users:
+* john@foo.com - changeme
+* student1@hawaii.edu - student1
+* student2@hawaii.edu - student2
+* student3@hawaii.edu - student3
+* student4@hawaii.edu - student4
+* student5@hawaii.edu - student5
+* student6@hawaii.edu - student6
+* student7@hawaii.edu - student7
+
+Admin:
+* admin@foo.com - changeme
+
 ### Sign-up/Sign-in page
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
