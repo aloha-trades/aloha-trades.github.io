@@ -65,9 +65,14 @@ The user will have options to 3 things, the marketplace, posting a listing, and 
 ### View Marketplace
 After logging in, you can view listings on the market and its respective sellers profile information like name, contact, and profile image. There is also a buy button that removes the listing off the marketplace and puts it into your shopping cart so that you can find it after and email the seller that you want to buy it.
 
-![Screenshot of View My Listings Page](imgs/Marketplace-Page.png)
+![Screenshot of View Marketplace Page](imgs/Marketplace-Page.png)
 
 The marketplace will not show your listings.
+
+### View Shopping Cart
+When you wish to buy an item it will be placed into the shopping cart so that it is easy to find later to email the seller(s) when ready to make a plan to purchase.
+
+![Screenshot of View Shopping Cart Page](imgs/.png)
 
 ### Post a Listing
 After logging in, a user can post a listing. Fields required include: name, description, price, condition, category, and an image upload.  Here is the page that allows you to create a item listing:
@@ -77,7 +82,7 @@ After logging in, a user can post a listing. Fields required include: name, desc
 ### View Listings Page
 After logging in, here is the page that allows you to see the listings you post:
 
-![Screenshot of View Market Page](imgs/Current-Users-Listing-Page.png)
+![Screenshot of View Owned Post](imgs/Current-Users-Listing-Page.png)
 
 Later if you want to edit your listings you can click the "Edit" link to go to the Edit Listing page, shown next.
 
@@ -94,7 +99,7 @@ This is what you will see after signing out.
 ### NavBar (after Login), Admin user
 You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
 
-![Screenshot of Signe-in User's Navbar](imgs/Admin-NavBar.png)
+![Screenshot of Sign-in User's Navbar](imgs/Admin-NavBar.png)
 
 This entry allows the admin to see all the listings on the site that have been approved and not approved.
 
