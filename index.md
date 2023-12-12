@@ -137,7 +137,6 @@ $ meteor npm run start
 
 The first time you run the app, it will create some default users and data. Here is the output:
 
-###  *Need to change output in here once we get our version up and running
 ```
  meteor npm run start 
 
