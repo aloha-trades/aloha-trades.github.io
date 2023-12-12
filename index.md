@@ -48,7 +48,7 @@ Admin:
 ### Sign-up/Sign-in page
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-![Screenshot of Sign-up Page](imgs/SignUp-Page.png)
+![Screenshot of Sign-up Page](imgs/Signup-Page.png)
 
 ### Landing (after Login) page, non-Admin user
 Once you log in (either to an existing account or by creating a new one), the navbar and page changes as follows:
