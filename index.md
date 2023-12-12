@@ -22,7 +22,7 @@ In the following section, we will go over functionalities of our page.  In order
 ![Flowpath Diagram](imgs/flowpath.png)
 
 ### Landing page after loading onto website
-When you enter our sites url, https://aloha-trades.com, this is what should be displayed. You will have to have a UH account in order to use this website:
+When you enter our site, url is: https://aloha-trades.com, this is what should be displayed. You will have to have a UH account in order to use this website:
 
 ![Screenshot of Ladning Page](imgs/Signin-Page.png)
 
@@ -45,7 +45,7 @@ Users:
 Admin:
 * admin@foo.com - changeme
 
-### Sign-up/Sign-in page
+### Sign-up page
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
 ![Screenshot of Sign-up Page](imgs/Signup-Page.png)
@@ -53,19 +53,21 @@ Alternatively, clicking on the Login link, then on the Sign Up menu item display
 ### Landing (after Login) page, non-Admin user
 Once you log in (either to an existing account or by creating a new one), the navbar and page changes as follows:
 
-![Screenshot of User's Landing Page](imgs/Signin-Page.png)
+![Screenshot of User's Landing Page](imgs/Landing-Page.png)
 
-### Users NanBar
+Here you have access to your shopping cart, you can check your inbox (currently not implemented), and see the marketplace. 
+
+### Users NavBar
 The user will have options to 3 things, the marketplace, posting a listing, and viewing their listings.
 
 ![Screenshot of User's NavBar](imgs/User-NavBar.png)
 
 ### View Marketplace
-After logging in, you can view listings on the market and profile information like name, contact, and profile image.
+After logging in, you can view listings on the market and its respective sellers profile information like name, contact, and profile image. There is also a buy button that removes the listing off the marketplace and puts it into your shopping cart so that you can find it after and email the seller that you want to buy it.
 
 ![Screenshot of View My Listings Page](imgs/Marketplace-Page.png)
 
-The marketplace will not show your listings. In the image the listing is owned by the admin.
+The marketplace will not show your listings.
 
 ### Post a Listing
 After logging in, a user can post a listing. Fields required include: name, description, price, condition, category, and an image upload.  Here is the page that allows you to create a item listing:
