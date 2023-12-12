@@ -69,10 +69,8 @@ After logging in, you can view listings on the market and its respective sellers
 
 The marketplace will not show your listings.
 
-### View Shopping Cart
+### View Shopping Cart (Could not implement in time)
 When you wish to buy an item it will be placed into the shopping cart so that it is easy to find later to email the seller(s) when ready to make a plan to purchase.
-
-![Screenshot of View Shopping Cart Page](imgs/.png)
 
 ### Post a Listing
 After logging in, a user can post a listing. Fields required include: name, description, price, condition, category, and an image upload.  Here is the page that allows you to create a item listing:
@@ -102,6 +100,11 @@ You can define an "admin" user in the settings.json file. This user, after loggi
 ![Screenshot of Sign-in User's Navbar](imgs/Admin-NavBar.png)
 
 This entry allows the admin to see all the listings on the site that have been approved and not approved.
+
+### Feedback Page
+If there are concerns or wishes for improvements by the users then they can use this to give us the developers feedback.
+
+![Screenshot of Feedback Page](imgs/Feedback-Page.png)
 
 ### Admin - Review and Approve Listings
 Any listing posted must be approved by an admin.  While this may take time, it ensures quality of the listings on the site by keeping malicious actors who may be using 'codewords' or suspicious activity down to a minimum (ideally zero).  
