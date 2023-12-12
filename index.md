@@ -141,26 +141,25 @@ The first time you run the app, it will create some default users and data. Here
 ```
  meteor npm run start 
 
-> meteor-application-template-react@ start /Users/carletonmoore/GitHub/ICS314/meteor-application-template-react/app
+> meteor-application-template-react@ start /Users/jason/Downloads/Documents/Code/GitHub/aloha-trades/app
 > meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
 
-[[[[[ ~/GitHub/ICS314/meteor-application-template-react/app ]]]]]
+[[[[[ ~/Downloads/Documents/Code/GitHub/aloha-trades/app ]]]]]
 
-=> Started proxy.                             
-=> Started HMR server.                        
-=> Started MongoDB.                           
-I20220529-12:09:18.384(-10)? Creating the default user(s)
-I20220529-12:09:18.389(-10)?   Creating user admin@foo.com.
-I20220529-12:09:18.453(-10)?   Creating user john@foo.com.
-I20220529-12:09:18.515(-10)? Creating default data.
-I20220529-12:09:18.515(-10)?   Adding: Basket (john@foo.com)
-I20220529-12:09:18.599(-10)?   Adding: Bicycle (john@foo.com)
-I20220529-12:09:18.600(-10)?   Adding: Banana (admin@foo.com)
-I20220529-12:09:18.601(-10)?   Adding: Boogie Board (admin@foo.com)
-I20220529-12:09:18.773(-10)? Monti APM: completed instrumenting the app
+=> Started proxy.
+=> Started HMR server.
+=> Started MongoDB.
+I20231211-18:27:52.987(-10)? Creating the default user(s)
+I20231211-18:27:53.000(-10)?   Creating user admin@foo.com.
+I20231211-18:27:56.187(-10)?   Creating user john@foo.com.
+I20231211-18:27:56.276(-10)? Creating default data.
+I20231211-18:27:56.276(-10)?   Adding: undefined (john@foo.com)
+I20231211-18:27:56.875(-10)?   Adding: undefined (john@foo.com)
+I20231211-18:27:56.881(-10)?   Adding: undefined (john@foo.com)
 => Started your app.
 
 => App running at: http://localhost:3000/
+I20231211-18:27:57.488(-10)? Monti APM: Connected
 ```
 
 Periodically, you might see `Error starting Mongo (2 tries left): Cannot run replSetReconfig because the node is currently updating its configuration` after the `=> Started HMR server.`. It doesn't seem to be a problem since the MongoDB does start.
