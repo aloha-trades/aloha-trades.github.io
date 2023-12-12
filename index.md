@@ -6,6 +6,15 @@
 
 **The solution:** The Aloha Trade is an application for UHM students to facilitate buying and selling of student-related goods and services.  By creating a page for only UHM students, we strive to alleviate the awkwardness of dealing with scammers and bots.  
 
+## PROJECT LINKS
+### [Aloha Trades Website](https://aloha-trades.com)
+[![ci-meteor-application-template-react](https://github.com/aloha-trades/aloha-trades/workflows/aloha-trades/badge.svg)](https://github.com/aloha-trades/aloha-trades/workflows/ci.yml)
+### [Aloha Trades Organization Page (GitHub)](https://github.com/aloha-trades)
+### [Team Contract Page](https://docs.google.com/document/d/1hsWmRihtEYO2heNBocMD6gEJtzXGbuNTDhtQp3nhHCM/edit)
+### [M1 - Project Page](https://github.com/orgs/aloha-trades/projects/1)
+### [M2 - Project Page](https://github.com/orgs/aloha-trades/projects/3)
+### [M3 - Project Page](https://github.com/orgs/aloha-trades/projects/4/views/1)
+
 ## User Guide
 ### Application functionality
 In the following section, we will go over functionalities of our page.  In order to help visualize this, the diagram shown below was created:
@@ -19,7 +28,7 @@ When you enter our sites url, https://aloha-trades.com, this is what should be d
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
-There are several default accounts that you can use to test the site. 
+There are several default accounts that you can use to test the site **but note not all accounts are used if running localhost version**.
 
 Login information below: **username - password**
 
@@ -104,21 +113,8 @@ Admin users can approve or deny a post from being listed on the listings page by
 
 ![Screenshot of Admin Approved Listing Page](imgs/Admin-Review-Listing-Page-True.png)
 
-## PROJECT LINKS
+## Community Feedback
 
-### [Aloha Trades Website](https://aloha-trades.com)
-
-[![ci-meteor-application-template-react](https://github.com/aloha-trades/aloha-trades/workflows/aloha-trades/badge.svg)](https://github.com/aloha-trades/aloha-trades/workflows/ci.yml)
-
-### [Aloha Trades Organization Page (GitHub)](https://github.com/aloha-trades)
-
-### [Team Contract Page](https://docs.google.com/document/d/1hsWmRihtEYO2heNBocMD6gEJtzXGbuNTDhtQp3nhHCM/edit)
-
-### [M1 - Project Page](https://github.com/orgs/aloha-trades/projects/1)
-
-### [M2 - Project Page](https://github.com/orgs/aloha-trades/projects/3)
-
-### [M3 - Project Page](https://github.com/orgs/aloha-trades/projects/4/views/1)
 
 ## Developer Guide
 ### Installation
