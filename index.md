@@ -86,10 +86,6 @@ After clicking on the "Edit" link associated with an item, this page displays th
 
 ![Screenshot of Edit Listing Page](imgs/Current-User-Edit-Listing-Page.png)
 
-### Messaging Feature (Under Construction/M3)
-For the users we made it easy for buyers and sellers to communicate.
-
-
 ### Sign-out Page
 This is what you will see after signing out.
 
