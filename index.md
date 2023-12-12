@@ -117,7 +117,7 @@ Admin users can approve or deny a post from being listed on the listings page by
 ![Screenshot of Admin Approved Listing Page](imgs/Admin-Review-Listing-Page-True.png)
 
 ## Community Feedback
-
+Student A likes that our application adheres to UH students in giving them a place to sell their items that are meant for other college students. A couple of the things they said we could fix is the icons on the landing page should be white and the positions of where it says the item description and who the item is offered by should be switched.
 
 ## Developer Guide
 ### Installation
